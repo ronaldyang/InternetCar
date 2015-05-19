@@ -1,3 +1,5 @@
+# Internet Car
+
 InternetCar is an Internet of Things (IoT) sample application built on Parse. It
 demonstrates the usage of Parse to enable communication between an remote device
 and an IoT device. The IoT device could theoretically be any hardware which runs

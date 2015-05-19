@@ -1,4 +1,4 @@
-# Contributing to Anydevice
+# Contributing to InternetCar
 We want to make contributing to this project as easy and transparent as possible.
 
 ## Pull Requests
