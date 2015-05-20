@@ -6,7 +6,9 @@ and an IoT device. The IoT device could theoretically be any hardware which runs
 an [Embedded SDK](https://www.parse.com/products/iot). Specifically, this
 application communicates with the Texas Instruments
 [SimpleLink Wi-Fi CC3200 LaunchPad](http://www.ti.com/tool/cc3200-launchxl). We
-will refer to this device as simply 'CC3200' throughout the README.
+will refer to this device as simply 'CC3200' throughout the README.  This app is
+adapted from the Parse [AnyDevice](https://github.com/parseplatform/AnyDevice)
+sample app.
 
 ## CC3200 Setup
 
@@ -55,7 +57,7 @@ push notification setup instructions.
 
 ## Application Overview
 
-Tipically, Anydevice allows you to control an LED on a CC3200 device, and to view the
+Typically, Anydevice allows you to control an LED on a CC3200 device, and to view the
 current state of that LED. The LED has three states: On, Off, and Blinking.
 Using Anydevice, you can send a message corresponding to one of these states
 from a mobile device in order to change the LED's behavior. The LED state can
